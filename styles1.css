@@ -1,0 +1,32 @@
+
+
+h1,h2{
+    color:pink;
+    font-size: x-large;
+    font-family: serif;
+}
+h2+p {
+    color:orange;
+}
+#idpic{
+    color:blue;
+}
+p.note{
+    font-family: Arial;
+    color:lightgreen;
+}
+li>a{
+    font-size: xx-large;
+}
+ul>li>a{
+    color:red;
+}
+body{
+    background-color:whitesmoke;
+}
+title{ 
+    padding:16px;
+}
+.foot{color:darkorchid;
+
+}
